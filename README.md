@@ -10,10 +10,10 @@ Groups are often tasked with creating "norms and expectations" and may not want 
 
 ## How to use
 
-Using this contract is as easy as downloading the Open Group Contract and following the section labeled "Usage":
+Using this contract is as easy as downloading the Open Group Contract and following the [section labeled "Usage"](./OGC.md#V-Usage)
 
-> Should a Group decide to use this Contract, they must have all Members review the Contract and agree to the Contract, either by written signature, oath, or by attaching the following text to either all documents relating to the Group or in the root directory of the Group's Project resources:
->
-> ```
-> The authors of this document hereby agree and abide by the terms listed in the Open Group Contract v1.0. If a copy of the Open Group Contract is not provided with this Project, a copy can be obtained here: https://github.com/alicerunsonfedora/OGC.
-> ```
+This repo contains the plain text and Markdown versions of this license.
+
+## Suggest a revision
+
+Feel free to file an issue on GitHub to make a request to revise the Open Group Contract.

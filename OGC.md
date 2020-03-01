@@ -30,7 +30,7 @@ To ensure that the Group remains productive, let every Member be assigned a Role
 
 2. All Members of the Group must be contributing to the Project regularly.
 
-    a. Likewise, Members reserve the right to audit each other by viewing revision histories, chat logs, Agile boards, etc.
+    a. Likewise, Members reserve the right to audit each other by viewing revision histories, chat logs, Agile boards, etc., given that the privacy of the Group is respected.
 
 ### II: Presence
 
@@ -64,6 +64,14 @@ This Contract shall hereby be considered an open document that may be modified b
 
 ### V: Usage
 
-Should a Group decide to use this Contract, they must have all Members review the Contract and agree to the Contract, either by written signature, oath, or by attaching the following text to either all documents relating to the Group or in the root directory of the Group's Project resources:
+1. Should a Group decide to use this Contract, they must have all Members review the Contract and agree to the Contract, either by written signature, oath, or by attaching the following text to either all documents relating to the Group or in the root directory of the Group's Project resources:
 
-> The authors of this document hereby agree and abide by the terms listed in the Open Group Contract v1.0. If a copy of the Open Group Contract is not provided with this Project, a copy can be obtained here: https://github.com/alicerunsonfedora/OGC.
+    > The authors of this document hereby agree and abide by the terms listed in the Open Group Contract v1.0. If a copy of the Open Group Contract is not provided with this Project, a copy can be obtained here: https://github.com/alicerunsonfedora/OGC.
+
+2. The Group must also change the copyright text located at the top of this Contract to match to the Group accordingly:
+
+```
+# Open Group Contract v1.0
+(C) 2020 The Group  
+Revised 1 March 2020  
+```
